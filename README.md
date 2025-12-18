@@ -24,7 +24,7 @@
       </td>
       <td width="50%" valign="top">
         <h3> 🛠️ Minhas Stacks</h3>
-        <img src="https://skillicons.dev/icons?i=python,js,react,vue,django,postgres,tailwind,git" />
+        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,js,react,django,postgres" />
       </td>
     </tr>
   </table>
