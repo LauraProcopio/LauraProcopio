@@ -20,7 +20,7 @@
     <tr>
       <td width="50%" valign="top">
         <h3> 📖 Sobre Mim</h3>
-        [cite_start]Formada em <b>Sistemas para Internet</b> pelo IFMT[cite: 12]. [cite_start]Tenho experiência prática em suporte técnico, APIs e bancos de dados como <b>PostgreSQL</b>[cite: 18, 30]. [cite_start]Atualmente, foco em criar interfaces modernas com <b>ReactJS</b> e automações inteligentes com <b>Python</b>[cite: 5, 6].
+        Formada em <b>Sistemas para Internet</b> pelo IFMT.Tenho experiência prática em suporte técnico, APIs e bancos de dados como <b>PostgreSQL</b>.Atualmente, foco em criar interfaces modernas com <b>ReactJS</b> e automações inteligentes com <b>Python</b>.
       </td>
       <td width="50%" valign="top">
         <h3> 🛠️ Minhas Stacks</h3>
