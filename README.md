@@ -1,5 +1,4 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2VudGlmeSZjdD1n/L1R1tvI9svvJC/giphy.gif"  />
   <h1>Olá, eu sou a Laura Procópio! 👋</h1>
   <p><b>Desenvolvedora Full Stack | Formada pelo IFMT 🎓</b></p>
   
