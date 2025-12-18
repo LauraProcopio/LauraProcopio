@@ -1,41 +1,60 @@
 <div align="center">
-  <h1>Olá, eu sou a Laura Procópio! 👋</h1>
-  <p><b>Desenvolvedora Full Stack | Formada pelo IFMT 🎓</b></p>
   
+  # Olá, eu sou a Laura Procópio! 👋
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack;Formada+em+Sistemas+para+Internet;Especialista+em+Automa%C3%A7%C3%A3o+Python" alt="Typing SVG" />
+  </p>
+
   <a href="https://www.linkedin.com/in/laura-fernandes-procopio/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:Laurafprocopio@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  
+  <br />
+  <br />
+
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3> 📖 Sobre Mim</h3>
+        [cite_start]Formada em <b>Sistemas para Internet</b> pelo IFMT[cite: 12]. [cite_start]Tenho experiência prática em suporte técnico, APIs e bancos de dados como <b>PostgreSQL</b>[cite: 18, 30]. [cite_start]Atualmente, foco em criar interfaces modernas com <b>ReactJS</b> e automações inteligentes com <b>Python</b>[cite: 5, 6].
+      </td>
+      <td width="50%" valign="top">
+        <h3> 🛠️ Minhas Stacks</h3>
+        <img src="https://skillicons.dev/icons?i=python,js,react,vue,django,postgres,tailwind,git" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
-
-### 💻 Sobre Mim
-Sou formada em **Sistemas para Internet** [cite: 12] [cite_start]com experiência prática em suporte técnico, APIs e bancos de dados como **PostgreSQL**[cite: 18, 30]. [cite_start]Atualmente, foco em criar interfaces modernas com **ReactJS** e automações inteligentes com **Python**[cite: 5, 6].
 
 ### 🚀 Projetos em Destaque
-- **🌐 Site Agaemetec:** Interface moderna em **ReactJS** e **Tailwind CSS**.
-- **🤖 Automação Python:** Scripts para envio de mensagens via **Selenium** e **Pandas**.
-- **🎫 Sistema de Tickets:** Back-end robusto com **Django** e **PostgreSQL**.
-- **📊 Alura Tracker:** Gerenciador de tarefas em **Vue.js** com **Vuex**.
 
-### 🛠 Minhas Stacks
-<div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</div>
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| **🌐 Site Agaemetec** | Interface moderna e responsiva para site institucional. | `ReactJS` `Tailwind` |
+| **🤖 Automação Python** | Scripts automatizados para envio de mensagens (Selenium). | `Python` `Pandas` |
+| **🎫 Sistema de Tickets** | Gerenciamento de chamados com back-end robusto. | `Django` `Postgres` |
+| **📊 Alura Tracker** | Aplicação de produtividade com gestão de estado. | `Vue.js` `Vuex` |
 
 ---
 
-### 📊 Estatísticas
+### 📊 Minhas Atividades no GitHub
+
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LauraProcopio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraProcopio&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauraProcopio&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraProcopio&layout=compact&langs_count=7&theme=omni" />
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LauraProcopio&theme=omni" alt="GitHub Streak" />
+</div>
+
+---
+<p align="center">Projetando soluções com código e criatividade ✨</p>
