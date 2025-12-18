@@ -45,8 +45,6 @@
 
 ### 📊 Minhas Atividades no GitHub
 
-arkdown
-
 <div align="center">
   <table border="0">
     <tr>
