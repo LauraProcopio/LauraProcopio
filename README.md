@@ -46,13 +46,6 @@
 ### 📊 Minhas Atividades no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauraProcopio&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraProcopio&layout=compact&langs_count=7&theme=omni" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LauraProcopio&theme=omni" alt="GitHub Streak" />
 </div>
 
