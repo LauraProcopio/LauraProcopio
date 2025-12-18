@@ -44,15 +44,22 @@
 ---
 
 ### 📊 Minhas Atividades no GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraProcopio&layout=compact&langs_count=7&theme=omni" />
-</div>
 
-<br />
+arkdown
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LauraProcopio&theme=omni" alt="GitHub Streak" />
-</div>
+  <table border="0">
+    <tr>
+      <td valign="bottom">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraProcopio&layout=compact&langs_count=7&theme=omni" />
+      </td>
+      <td valign="bottom">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LauraProcopio&theme=omni" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>>
+
 
 ---
 <p align="center">Projetando soluções com código e criatividade ✨</p>
