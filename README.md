@@ -3,7 +3,7 @@
   # Olá, eu sou a Laura Procópio! 👋
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack;Formada+em+Sistemas+para+Internet;Especialista+em+Automa%C3%A7%C3%A3o+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack;Formada+em+Sistemas+para+Internet" alt="Typing SVG" />
   </p>
 
   <a href="https://www.linkedin.com/in/laura-fernandes-procopio/">
