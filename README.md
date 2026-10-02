@@ -1,9 +1,9 @@
 <div align="center">
   
-  # Olá, eu sou a Laura Procópio!
+  # Olá, eu sou a Laura Procópio! 👋
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=550&lines=Desenvolvedora+Full+Stack+%7C+Analista;React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+Oracle;Construindo+aplica%C3%A7%C3%B5es+escal%C3%A1veis+e+automa%C3%A7%C3%B5es" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=580&lines=Desenvolvedora+Full+Stack+J%C3%BAnior;Python+%E2%80%A2+Node.js+%E2%80%A2+React+%E2%80%A2+Oracle+DB;Construindo+solu%C3%A7%C3%B5es+corporativas+do+banco+%C3%A0+interface" alt="Typing SVG" />
   </p>
 
   <a href="https://www.linkedin.com/in/laura-fernandes-procopio/" target="_blank">
@@ -18,22 +18,30 @@
   <table>
     <tr>
       <td width="55%" valign="top">
-        <h3> 📖 Sobre Mim</h3>
+        <h3> 💼 Sobre Mim</h3>
         <p>
-          Desenvolvedora Web e Analista com foco em soluções ponta a ponta. Atuo tanto no <b>Front-end</b> quanto no <b>Back-end</b>, construindo interfaces reativas com <b>React</b> e serviços robustos com <b>Node.js</b> e <b>Python</b>.
+          Desenvolvedora Full Stack / Analista Júnior com <b>1 ano de experiência prática em ambiente corporativo</b>. Atuo no ciclo completo de desenvolvimento de software, entregando desde interfaces reativas até serviços de back-end integrados e rotinas de banco de dados.
         </p>
         <p>
-          Tenho sólida vivência em modelagem e integração de bancos relacionais com foco em <b>Oracle Database</b> e <b>PostgreSQL</b>, além de ambientes conteinerizados com <b>Docker</b> para desenvolvimento e deploy de APIs e automações.
+          Minha rotina técnica envolve:
+          <ul>
+            <li>Construção de aplicações web e painéis com <b>React</b>;</li>
+            <li>Desenvolvimento de APIs, microsserviços e integrações com <b>Node.js</b> e <b>Python</b>;</li>
+            <li>Consultas complexas, modelagem e rotinas com <b>Oracle Database</b> e <b>PostgreSQL</b>;</li>
+            <li>Conteinerização e padronização de ambientes de desenvolvimento com <b>Docker</b>.</li>
+          </ul>
         </p>
       </td>
       <td width="45%" valign="top">
-        <h3> 🛠️ Stacks & Ferramentas</h3>
+        <h3> 🛠️ Tecnologias & Ferramentas</h3>
         <p><b>Front-end:</b></p>
         <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" /><br />
-        <p><b>Back-end & Dados:</b></p>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres" /><br />
-        <p><b>DevOps & Infra:</b></p>
-        <img src="https://skillicons.dev/icons?i=docker,git,linux,postman" />
+        <p><b>Back-end & APIs:</b></p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" /><br />
+        <p><b>Bancos de Dados:</b></p>
+        <img src="https://skillicons.dev/icons?i=postgres" /> <i>+ Oracle Database / PL-SQL</i><br /><br />
+        <p><b>DevOps & Ambiente:</b></p>
+        <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman" />
       </td>
     </tr>
   </table>
@@ -41,17 +49,17 @@
 
 ---
 
-### Principais Frentes & Projetos
+### 🚀 Experiência & Projetos de Impacto
 
-| Solução / Projeto | Descrição | Stack |
+| Tipo | Foco de Atuação | Tecnologias Principais |
 | :--- | :--- | :--- |
-| **Portal de Consultas & Dashboards** | Aplicação web com controle de acessos, relatórios e consumo de queries complexas. | `React` `Node.js` `Oracle DB` |
-| **APIs & Serviços Integrados** | Microsserviços para orquestração de requisições, mensageria e automação operacional. | `Python` `FastAPI` `Docker` |
-| **Automações de Processos** | Pipelines de extração, tratamento e envio automatizado de dados e documentos. | `Python` `Pandas` `PostgreSQL` |
+| **Sistemas Web & Dashboards** | Portais de consultas e módulos administrativos com consumo de APIs e exibição analítica de dados. | `React` `Node.js` `Oracle DB` |
+| **Back-end & Automações** | Serviços em Python e Node.js para integração entre sistemas legados, envio de notificações e rotinas agendadas. | `Python` `FastAPI` `Docker` |
+| **Engenharia de Dados & SQL** | Otimização de consultas, rotinas operacionais e manipulação de bases relacionais críticas. | `Oracle Database` `PostgreSQL` |
 
 ---
 
-### Atividades & Estatísticas
+### 📊 Estatísticas no GitHub
 
 <div align="center">
   <table border="0">
@@ -67,4 +75,4 @@
 </div>
 
 ---
-<p align="center">Desenvolvendo sistemas consistentes do banco à interface ✨</p>
+<p align="center">Foco em código limpo, arquitetura escalável e resolução de problemas reais 🚀</p>
